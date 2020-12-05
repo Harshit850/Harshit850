@@ -10,9 +10,11 @@
 <img src="https://komarev.com/ghpvc/?username=Harshit850" alt="harshitkumar" />
 
 <div>
+ <pre>
 - 🔭 I’m currently a CS student at HCST, Mathura.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship.
+ </pre>
 </div>
 
 ### I know more about- </br>
