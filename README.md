@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
  <h2 align="center">Profile</h2>
 </p>
 
@@ -11,9 +11,9 @@
 
 <div>
  <pre>
-- :- I’m currently a CS student at HCST, Mathura.
-- :- I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- :- I’m looking for a software development internship.
+:- I’m currently a CS student at HCST, Mathura.
+:- I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+:- I’m looking for a software development internship.
  </pre>
 </div>
 
