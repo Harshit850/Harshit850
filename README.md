@@ -4,17 +4,15 @@
 </p>
 
 ### Hi there 👋 I'm [Harshit Kumar]
-> Web developer, Programmer, Engineering Student at HCST, Mathura.
+>Web Designer and Developer.
 
 
 <img src="https://komarev.com/ghpvc/?username=Harshit850" alt="harshitkumar" />
 
 <div>
- <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
-
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
-</p>
+- 🔭 I’m currently a CS student at HCST, Mathura.
+- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- 👯 I’m looking for a software development internship.
 </div>
 
 ### I know more about- </br>
