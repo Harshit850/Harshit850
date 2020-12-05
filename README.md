@@ -40,7 +40,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <p align="center">
 <a href="https://harshit850.github.io/Profile/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://harshit850.github.io/Profile/-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/harshit-kumar-ab98a3191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@harshit-kumar-ab98a3191-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/harshit-kumar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:kumarharshit850@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kumarharshit850@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
