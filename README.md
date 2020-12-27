@@ -13,7 +13,7 @@
  <pre>
 :- I’m currently a CS student at HCST, Mathura.
 :- I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-:- I’m looking for a software development internship.
+:- I’m looking for Web development internships.
  </pre>
 </div>
 
