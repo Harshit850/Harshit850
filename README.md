@@ -12,8 +12,9 @@
 <div>
  <pre>
 :- I’m currently a CS student at HCST, Mathura.
-:- I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+:- I’m currently learning front-end web development.
 :- I’m looking for Web development internships.
+:- I'm available for freelance work.
  </pre>
 </div>
 
