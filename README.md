@@ -53,7 +53,7 @@
           </td>
         </tr>
         </tbody>
-</table>
+</table> <br />
 
 ### Github Stats
   [![Harshit Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit850&show_icons=true&count_private=true)](https://github.com/Harshit850)
