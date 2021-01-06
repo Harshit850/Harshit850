@@ -26,7 +26,7 @@
   </a>
 </p>
 
-## 👨‍💻 Languages
+## 👨‍💻 Languages and Tools
 
 <table align="left">
     <tbody>
@@ -43,20 +43,21 @@
             <td><a href="#"><img alt="Python" title="Python" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
             </td>
-            <td><a href="#"><img alt="BootStrap" title="Bootstarp" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/bootstrap.png" /></a>
-            </td>
         </tr>
+        <td>[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" 
+                  alt="Git" width="24">](https://git-scm.com/)
+        </td>
+        <td>[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"
+                  alt="vscode" width="24">](https://code.visualstudio.com/)(https://git-scm.com/)
+        </td>
         </tbody>
 </table>
- 
-### Tools 🛠️
-
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/)  |   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)  |  many more...
 
 ### Github Stats
 
-[![Harshit Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit850&show_icons=true&count_private=true)](https://github.com/Harshit850)
+<p align="center">
+  [![Harshit Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit850&show_icons=true&count_private=true)](https://github.com/Harshit850)
+</p>
 
 ### Github Repos
 
