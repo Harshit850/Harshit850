@@ -20,15 +20,11 @@
 
 ## 🔥 My contribution streak
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Harshit850/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit850#version3"/>
   </a>
 </p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitsri98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-</p>
-
 ## 👨‍💻 Languages
 
 <table align="left">
