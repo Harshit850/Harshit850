@@ -25,9 +25,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit850#version3"/>
   </a>
 </p>
-<br />
 <hr>
-## 👨‍💻 Languages
+
+#Languages
+<br />
 <table align="left">
     <tbody>
         <tr>
