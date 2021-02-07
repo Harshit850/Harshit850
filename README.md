@@ -26,8 +26,8 @@
   </a>
 </p>
 <br />
+<hr>
 ## 👨‍💻 Languages
-
 <table align="left">
     <tbody>
         <tr>
