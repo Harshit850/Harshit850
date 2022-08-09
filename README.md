@@ -11,10 +11,10 @@
 
 <div>
  <pre>
-:- I’m currently a CS student at HCST, Mathura.
-:- I’m currently learning front-end web development.
-:- I’m looking for Web development internships.
-:- I'm available for freelance work.
+:- Currently Working as Software Engineer at Practo.
+:- I'm in love with Javascript and Frontend development.
+:- Initially I used to hate Java, but its not that Bad. 
+:- I'm having a crush on Spring boot and Java too.
  </pre>
 </div>
 
